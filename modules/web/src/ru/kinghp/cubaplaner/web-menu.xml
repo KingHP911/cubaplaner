@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
+    <menu id="application-cubaplaner" insertBefore="administration" caption="mainMsg://menu_config.application-cubaplaner">
+        <item screen="cubaplaner_Speaker.browse" caption="mainMsg://menu_config.cubaplaner_Speaker.browse"/>
+        <item screen="cubaplaner_Session.browse" caption="mainMsg://menu_config.cubaplaner_Session.browse"/>
+    </menu>
+</menu-config>
